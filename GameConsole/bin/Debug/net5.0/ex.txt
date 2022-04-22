@@ -1,4 +1,0 @@
-{"description": [
-  "You're in the hall of the haunted building..Go inside to face creatures",
-  "You're in the hall of the haunted building..Go inside to face creatures"
-]}
